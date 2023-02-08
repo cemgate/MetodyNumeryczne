@@ -1,0 +1,4 @@
+﻿D:\visual\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (mn.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\marci\source\repos\mn\mn\main.cpp(41,27): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  mn.vcxproj -> C:\Users\marci\source\repos\mn\x64\Debug\newton.exe

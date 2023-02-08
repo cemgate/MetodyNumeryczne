@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\marci\OneDrive\Pulpit\c++\gaus\gaus\main.cpp(12,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\marci\OneDrive\Pulpit\c++\gaus\gaus\main.cpp(13,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\marci\OneDrive\Pulpit\c++\gaus\gaus\main.cpp(20,18): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\marci\OneDrive\Pulpit\c++\gaus\gaus\main.cpp(21,21): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  gaus.vcxproj -> C:\Users\marci\OneDrive\Pulpit\c++\gaus\x64\Debug\gaus.exe
